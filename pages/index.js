@@ -37,15 +37,15 @@ export default function Home() {
             <p className="categoryTitle">Nos réalisations</p>
             <div className="categoryText">
               <span className="trait"></span>
-              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+              <p>{`Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences`}</p>
             </div>
           </div>
 
           <div className="categorie equipe">
-            <p className="categoryTitle">L'équipe</p>
+            <p className="categoryTitle">{`L'équipe`}</p>
             <div className="categoryText">
               <span className="trait"></span>
-              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+              <p>{`Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences`}</p>
             </div>
           </div>
 
@@ -53,7 +53,7 @@ export default function Home() {
             <p className="categoryTitle">Notre façon de faire</p>
             <div className="categoryText">
               <span className="trait"></span>
-              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+              <p>{`Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences`}</p>
             </div>
           </div>
 
@@ -61,7 +61,7 @@ export default function Home() {
             <p className="categoryTitle">Tarif pack abonnement</p>
             <div className="categoryText">
               <span className="trait"></span>
-              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+              <p>{`Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences`}</p>
             </div>
 
           </div>
@@ -69,7 +69,7 @@ export default function Home() {
             <p className="categoryTitle">Contact</p>
             <div className="categoryText">
               <span className="trait"></span>
-              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+              <p>{`Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences`}</p>
             </div>
           </div>
 
