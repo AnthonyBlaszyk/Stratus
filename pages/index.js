@@ -27,25 +27,50 @@ export default function Home() {
         <a href="#categories">
           <div className='homePage'>
             <h1>Stratus</h1>
-            <h2>website still in progress, please come back later</h2>
+            <h2>Une identité visuelle à votre image</h2>
           </div>
         </a>
 
         <div id='categories' >
-          <div className="categorie">
-            <p>Categorie 1</p>
+
+          <div className="categorie realisation">
+            <p className="categoryTitle">Nos réalisations</p>
+            <div className="categoryText">
+              <span className="trait"></span>
+              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+            </div>
           </div>
-          <div className="categorie">
-            <p>Categorie 2</p>
+
+          <div className="categorie equipe">
+            <p className="categoryTitle">L'équipe</p>
+            <div className="categoryText">
+              <span className="trait"></span>
+              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+            </div>
           </div>
-          <div className="categorie">
-            <p>Categorie 3</p>
+
+          <div className="categorie competences">
+            <p className="categoryTitle">Notre façon de faire</p>
+            <div className="categoryText">
+              <span className="trait"></span>
+              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+            </div>
           </div>
-          <div className="categorie">
-            <p>Categorie 4</p>
+
+          <div className="categorie tarif">
+            <p className="categoryTitle">Tarif pack abonnement</p>
+            <div className="categoryText">
+              <span className="trait"></span>
+              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+            </div>
+
           </div>
-          <div className="categorie">
-            <p>Categorie 5</p>
+          <div className="categorie contact">
+            <p className="categoryTitle">Contact</p>
+            <div className="categoryText">
+              <span className="trait"></span>
+              <p >Retrouvez ici toutes nos réalisations afin d'avoir un aperçu de nos compétences</p>
+            </div>
           </div>
 
         </div>
