@@ -1,4 +1,9 @@
 @media (max-width: 850px) {
+    html{
+        overflow: auto;
+        overflow-x: hidden;
+    }
+
     #categories{
         position: relative;
         flex-direction: column;
@@ -8,4 +13,8 @@
         width: 100vw;
         height: 20vh;
     }
+
+    .categorie .categoryText{
+        height: 100px;
+      }
 }
