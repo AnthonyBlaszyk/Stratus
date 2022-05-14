@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import React from "react";
 
-function reloadOnResize() {
+function UseReloadOnResize() {
   React.useEffect(() => {
     function handleResize() {
       location.reload()
@@ -11,7 +11,7 @@ function reloadOnResize() {
 }
 
 export default function Home() {
-  reloadOnResize()
+  UseReloadOnResize()
 
   return (
     <div >
