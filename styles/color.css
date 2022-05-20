@@ -1,0 +1,54 @@
+.blue{
+	color: #A3B5DD;
+}
+.bg-blue{
+	background-color: #A3B5DD;
+}
+.bg-blue-hover:hover{
+	background-color: #A3B5DD;
+	transition: all 0.6s ease-in;
+}
+
+.green{
+	color: #BEDDD5;
+}
+.bg-green{
+	background-color: #BEDDD5;
+}
+.bg-green-hover:hover{
+	background-color: #BEDDD5;
+	transition: all 0.6s ease-in;
+}
+
+.yellow{
+	color: #EBCE83;
+}
+.bg-yellow{
+	background-color: #EBCE83;
+}
+.bg-yellow-hover:hover{
+	background-color: #EBCE83;
+	transition: all 0.6s ease-in;
+}
+
+.purple{
+	color: #B29BEF;
+}
+.bg-purple{
+	background-color: #B29BEF;
+}
+.bg-purple-hover:hover{
+	background-color: #B29BEF;
+	transition: all 0.6s ease-in;
+}
+
+.cyan{
+	color: #A3C9DD;
+}
+.bg-cyan{
+	background-color: #A3C9DD;
+}
+.bg-cyan-hover:hover{
+	background-color: #A3C9DD;
+	transition: all 0.6s ease-in;
+}
