@@ -1,7 +1,7 @@
 export const categories = [
   {
     name: "Nos réalisations",
-    desc: "Retrouvez ici toutes nos créations",
+    desc: "Retrouvez ici toutes nos créations.",
     color: "blue",
     slug: "real"
   },
@@ -13,13 +13,13 @@ export const categories = [
   },
   {
     name: "Notre façon de faire",
-    desc: "Retrouvez ici notre plan d'actions ainsi qu'une FAQ",
+    desc: "Retrouvez ici notre plan d'actions ainsi qu'une FAQ.",
     color: "yellow",
     slug: "workflow"
   },
   {
     name: "Tarif pack abonnement",
-    desc: "Ici un aperçu de nos tarifs et abonnement",
+    desc: "Ici un aperçu de nos tarifs et abonnement.",
     color: "purple",
     slug: "subscription"
   },
