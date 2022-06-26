@@ -1,25 +1,25 @@
 export const categories = [
   {
     name: "Nos réalisations",
-    desc: "Retrouvez ici toutes nos réalisation afin d'avoir un aperçu de nos compétences",
+    desc: "Retrouvez ici toutes nos créations",
     color: "blue",
     slug: "real"
   },
   {
     name: "L'équipe",
-    desc: "Une présentation rapide de notre grande équipe !",
+    desc: "Une présentation rapide de notre projet et de notre grande équipe !",
     color: "green",
     slug: "team"
   },
   {
     name: "Notre façon de faire",
-    desc: "Retrouvez ici une explications de notre méthodologie de travail",
+    desc: "Retrouvez ici notre plan d'actions ainsi qu'une FAQ",
     color: "yellow",
     slug: "workflow"
   },
   {
     name: "Tarif pack abonnement",
-    desc: "Ici un aperçu de nos tarification et prix de nos packs et de nos propositions d'abonnement",
+    desc: "Ici un aperçu de nos tarifs et abonnement",
     color: "purple",
     slug: "subscription"
   },
