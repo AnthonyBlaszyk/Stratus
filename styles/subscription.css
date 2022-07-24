@@ -1,0 +1,61 @@
+.img {
+  width: 70%;
+  height: 400px;
+  background-color: black;
+}
+
+.starterContent {
+  width: 100%;
+  padding: 15px;
+}
+
+.starterText {
+  padding: 10px 100px 10px 10px;
+  text-align: justify;
+  color: white;
+  height: 300px;
+}
+
+.starterHeader button {
+  margin: 0 30px;
+}
+
+.starterText p {
+  margin: 10px;
+}
+
+.contenu-card-content>div{
+    padding: 20px;
+}
+
+.subscribtion-card-title {
+  text-transform: uppercase;
+}
+
+.underlineSpan {
+  display: block;
+  width: 100%;
+  height: 0.2rem;
+  background-color: white;
+  border-radius: 10px;
+  margin: 5px 0;
+}
+
+.underlineSpanNone {
+  display: block;
+  width: 100%;
+  height: 0.2rem;
+  background-color: inherit;
+  border-radius: 10px;
+  margin: 5px 0;
+}
+
+.footer-card-button{
+    border: 2px black solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.footer-card-button-group{
+    justify-content: space-between;
+}

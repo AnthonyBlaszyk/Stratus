@@ -32,3 +32,17 @@ h3{
   font-weight: 400;
   text-transform: uppercase;
 }
+
+.flex{
+  display: flex;
+}
+
+button{
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+ul li{
+  list-style: none;
+}
