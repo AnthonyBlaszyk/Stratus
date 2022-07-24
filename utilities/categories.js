@@ -3,7 +3,7 @@ export const categories = [
     name: "Nos réalisations",
     desc: "Retrouvez ici toutes nos créations.",
     color: "blue",
-    slug: "real"
+    slug: "realisations"
   },
   {
     name: "L'équipe",
