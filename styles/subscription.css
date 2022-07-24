@@ -6,26 +6,30 @@
 
 .starterContent {
   width: 100%;
-  padding: 15px;
+  padding: 30px;
 }
 
 .starterText {
-  padding: 10px 100px 10px 10px;
+  padding: 10px 100px 0 0;
   text-align: justify;
   color: white;
   height: 300px;
 }
 
-.starterHeader button {
-  margin: 0 30px;
+.starterText p{
+    margin: 20px 0;
 }
 
-.starterText p {
-  margin: 10px;
+.starterHeader button {
+  margin-left: 20px;
 }
+
+.starterHeader h2 {
+    margin-right: 40px;
+  }
 
 .contenu-card-content>div{
-    padding: 20px;
+    padding-right: 20px;
 }
 
 .subscribtion-card-title {
@@ -58,4 +62,15 @@
 
 .footer-card-button-group{
     justify-content: space-between;
+    margin: 30px 0;
+}
+
+.ttc{
+    font-size: 9px;
+    margin: 0 5px;
+}
+
+.subscription-title h2, .subscription-title p{
+    padding: 0 7vw;
+    margin: 25px;
 }

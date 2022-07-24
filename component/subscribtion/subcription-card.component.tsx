@@ -52,9 +52,9 @@ export const SubscriptionCardComponent = (
           </div>
 
           <div className="starterText">{getStarterText()}</div>
-          <span className="trait"></span>
+          <span className="underlineSpan"></span>
           <div className="footer-card-button-group flex">
-            <button className="footer-card-button">{price} euros TTC</button>
+            <button className="footer-card-button">{price} euros <span className="ttc">TTC</span></button>
             <button className="footer-card-button">Je veux ce pack</button>
           </div>
         </div>
