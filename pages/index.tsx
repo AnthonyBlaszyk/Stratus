@@ -28,18 +28,19 @@ export default function Home() {
 
           </div>
        
-
           <div id='categories'>
             {
               categories.map((category) => {
                 return (
-                  <div key={category.slug} className={`category bg-${category.color}-hover`}>
+                  <a key={category.slug} href={`/${category.slug}`} className={`category bg-${category.color}-hover`}>
+                  <div  >
                     <h3>{category.name}</h3>
                       <div>
                         <span className='trait'></span>
                         <p className='category-txt'>{category.desc}</p>
                       </div>              
                   </div>
+                  </a>
                 )
               })
             }

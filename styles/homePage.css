@@ -8,6 +8,8 @@
   overflow-x: hidden;
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
+  color: white;
+
 }
 
 .homePage{
@@ -33,9 +35,10 @@
 .trait{
   display: block;
   width: 30%;
-  height: 0.2rem;
+  height: 0.1rem;
   background-color: white;
   margin: 2rem auto;
+  border-radius: 10px;
 }
 
 .category{

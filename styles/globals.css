@@ -5,7 +5,6 @@
   margin: 0;
   box-sizing: border-box;
   font-family: 'Fredoka', sans-serif;
-  color: white;
 }
 
 html{
@@ -32,4 +31,18 @@ h2{
 h3{
   font-weight: 400;
   text-transform: uppercase;
+}
+
+.flex{
+  display: flex;
+}
+
+button{
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+ul li{
+  list-style: none;
 }
